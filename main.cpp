@@ -83,51 +83,51 @@ Main Object: Car Interior
         Name 4 nouns you'll find on the [Sub Object]
             1) paddle shifters
             2) 'cruise control' controls
-            3) 
-            4) 
+            3) horn button
+            4) air bag containner
         Name 2 actions that the [Sub Object] can do:
             1) adjust cruise control settings.
-            2)
+            2) make sound
         
     Sub Object: Instrument Cluster
         Name 4 nouns you'll find on the [Sub Object]
-            1)
-            2)
-            3)
-            4)
+            1) pointer Velocity
+            2) light Symbol Oil
+            3) light Symbol Alert
+            4) clock
         Name 3 actions that the [Sub Object] can do:
-            1)
-            2)
-            3)
+            1) indicate velocity
+            2) indicate dangerAlert
+            3)  alert low level oil
     
     Sub Object: Environment Controls
         Name 3 nouns you'll find on the [Sub Object]
-            1)
-            2)
-            3)
+            1) button on-off
+            2) button adjust temperature
+            3) buton adjust humidity
         Name 3 actions that the [Sub Object] can do:
-            1)
-            2)
-            3)
+            1) turn on conditioner air
+            2) adjust temperature
+            3) adjust humidity
 
     Sub Object: Infotainment System
         Name 3 nouns you'll find on the [Sub Object]
-            1)
-            2)
-            3)
+            1) phone icon
+            2) music player icon
+            3) maps
         Name 3 actions that the [Sub Object] can do:
-            1)
-            2)
-            3)
+            1) play music
+            2) call phone
+            3) show streets
 
     Sub Object: Seat 
         Name 3 nouns you'll find on the [Sub Object]
-            1)
-            2)
-            3)
+            1) backRest
+            2) headRest
+            3) seatBelt
         Name 2 actions that the [Sub Object] can do:
-            1)
-            2)
+            1) change angle backrest
+            2) hug the passenger
 */
 
 /*
