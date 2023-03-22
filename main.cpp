@@ -318,6 +318,42 @@ example:
         Brightness (double)
         area in cm2 (int)
         brand (std::string)
+
+Thing 1) Candy Store
+5 properties:
+    1) Number of employees (int)
+    2) Number of Type of Sweets (int)
+    3) Number of costumer per day (int)
+    4) Amount of money get per week (double)
+    5) Number of showcases (int)
+
+
+Thing 2) School
+5 properties:
+    1) Number of bathroom (int)
+    2) Number of rooms (int)
+    3) Number of teachers (int)
+    4) Number of employees (int)
+    5) Amount of food in a week (float)
+
+
+Thing 3) Dance Club
+5 properties:
+    1) Number of dance floor (int)
+    2) Number of counters (int)
+    3) Number of LightEffects (int)
+    4) Number of DJs (int)
+    5) Number of employees (int)
+
+Thing 4) Fire Company
+5 properties:
+    1) Number of trucks (int)
+    2) Number of firemans (int)
+    3) Number of ambulances (int)
+    4) Number of doctors (int)
+    5) Amount of water per month (double)
+
+        
 */
 
 /*
