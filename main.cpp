@@ -470,65 +470,65 @@ example:
     You will need to provide 5 properties and 3 member functions of that Engine object in plain English.
     Remember to pick properties that can be represented with 'int float double bool char std::string'.
 
-Thing 5)
+Thing 5) Doctor
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) genre
+    2) nativeLanguage
+    3) weight
+    4) salary
+    5) speciality
 3 things it can do:
-    1)
-    2)
-    3)
+    1) revel genre of a Doctor
+    2) show teh salary of a Doctor 
+    3) display the speciality of a Doctor
 
-Thing 6)
+Thing 6) ChildreSpaceRoom
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) ticketGateNumber
+    2) IluminatteAmount
+    3) conditionerAirIntensity
+    4) fireAlertStatus
+    5) movieCameraStatus
 3 things it can do:
-    1)
-    2)
-    3)
+    1) show the temperature
+    2) show the number of people in room
+    3) show amount illuminate
 
-Thing 7)
+Thing 7) parking
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) valetNumber
+    2) automaticGateStatus
+    3) alarmStatus
+    4) carsNumber
+    5) securityGuardNumber
 3 things it can do:
-    1)
-    2)
-    3)
+    1) show valet number
+    2) show car number
+    3) show the status alarm
 
-Thing 8)
+Thing 8) Employee
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) genre
+    2) name
+    3) age
+    4) occupationArea
+    5) salary
 3 things it can do:
-    1)
-    2)
-    3)
+    1) show the genre of a employee
+    2) show the age of a employee
+    3) show the salary of a employee
 
-Thing 9)
+Thing 9) Kitchen
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) nameOfCooker
+    2) electricToolsNumber
+    3) numberOfStoves
+    4) fireAlertStatus
+    5) foodAmount
 3 things it can do:
-    1)
-    2)
-    3)
+    1) revel name of a cooker
+    2) show the number of a stoves in kitchen
+    3) show the amount of food there is in kitchen 
  */
 
 /*
